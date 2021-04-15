@@ -1,0 +1,26 @@
+{
+  "name": "wowdiscordassist",
+  "version": "1.0.0",
+  "description": "A bot developed with the aim of improving the interaction with your World Of Warcraft server.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrAspect/WoWDiscordAssist.git"
+  },
+  "author": "MrAspect",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrAspect/WoWDiscordAssist/issues"
+  },
+  "homepage": "https://github.com/MrAspect/WoWDiscordAssist#readme",
+  "devDependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7"
+  }
+}

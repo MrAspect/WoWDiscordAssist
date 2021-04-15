@@ -1,0 +1,19 @@
+{
+    "Other": "1",
+    "Help": "1",
+    "Prefix": "1",
+    "Prefixinfo": "1",
+    "Prefixmod": "1",
+    "Guild": "1",
+    "Guildsearch": "1",
+    "Guildinfo": "1",
+    "Player": "1",
+    "Playerinfo": "1",
+    "Playeronline": "1",
+    "Ticket": "1",
+    "Ticketlist": "1",
+    "Ticketinfo": "1",
+    "Presence": "1",
+    "Joinmessage": "1",
+    "Leftmessage": "1"
+}

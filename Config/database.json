@@ -1,0 +1,9 @@
+{
+    "host": "IP DATABASE",
+    "user": "USER DATABASE",
+    "pass": "PASSWORD DATABASE",
+    "dbauth": "AZEROTHCORE AUTH DATABASE",
+	"dbchars": "AZEROTHCORE CHARS DATABASE",
+	"dbworld": "AZEROTHCORE WORLD DATABASE",
+    "charset": "utf8mb4"
+}

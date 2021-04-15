@@ -1,0 +1,9 @@
+{
+	"prefix": "BOT PREFIX",
+	"token": "BOT TOKEN",
+	"welcomechannel": "NAME WELCOME CHANNEL",
+	"welcomerole": "NAME MEMBER ROLE",
+	"adminrole": "NAME ADMIN ROLE",
+	"staffrole": "NAME STAFF ROLE",
+	"lang": "en OR fr"
+}
