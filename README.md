@@ -22,7 +22,7 @@
 > Config/database.json (AzerothCore database acces)
 ```
 
-## 💻 Run command to start WoWEngine
+## 💻 Run command to start WoWDiscordAssist
 
 ```sh
 > node server
